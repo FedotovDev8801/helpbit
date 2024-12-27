@@ -1,4 +1,6 @@
-# Helpbit: What is this?
+# Welcome to Helpbit
+
+## Helpbit: What is this?
 
 Help:bit is an frimware for Micro:bit MaqueenPlus that contains an assistant.
 
