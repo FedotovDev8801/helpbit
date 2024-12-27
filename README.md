@@ -1,24 +1,14 @@
+# Helpbit: What is this?
+Help:bit is an frimware for Micro:bit MaqueenPlus that contains an assistant.
 
-> Открыть эту страницу в [https://fedotovdev8801.github.io/helpbit/](https://fedotovdev8801.github.io/helpbit/)
+## Required hardware
+- Micro:bit V2
+- DFRobot MaqueenPlus (optional)
+- Micro:bit USB cabel (for installing)
 
-## Использовать это расширение
-
-Этот репозиторий может быть добавлен в MakeCode как **расширение**.
-
-* открыть [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* нажмите на **Новый проект**
-* нажмите **Расширения** в меню-шестерёнке
-* найдите **https://github.com/fedotovdev8801/helpbit** и импортируйте
-
-## Править этот проект
-
-Редактировать этот репозиторий в MakeCode.
-
-* открыть [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* нажмите на **Импорт**, затем **Импорт URL**
-* вставьте **https://github.com/fedotovdev8801/helpbit** и нажмите Импорт
-
-#### Метаданные (используются для поиска, рендеринга)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## How to install
+1.) Connect Micro:bit with cabel
+2.) Install latest release from (Releases)[https://github.com/FedotovDev8801/helpbit/releases]
+3.) Move .hex file into MICROBIT drive.
+4.) Connect your Micro:bit into Maqueen (Optional)
+5.) Done!
